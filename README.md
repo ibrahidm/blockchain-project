@@ -32,3 +32,8 @@ npm run dev
 npm run dev-peer
 ```
 
+### Runs Jest tests
+```
+npm run test
+```
+
